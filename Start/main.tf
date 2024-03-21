@@ -1,0 +1,1 @@
+this is abhay gahoi the azure file for terraform is created
